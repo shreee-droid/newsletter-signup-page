@@ -67,7 +67,3 @@ app.listen(process.env.PORT || 3000, function () {
 })
 
 
-// api
-// 63efb871da82eee5067dd38f758e699a-us7
-
-// c67d954607
