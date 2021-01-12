@@ -1,2 +1,2 @@
 # newsletter-signup-page
-Made with expressjs
+Made with ExpressJs and Javascript 
